@@ -1,6 +1,6 @@
 # WebXR_Test
 
-Test site: 
+Test site: https://pardeewalmsley.github.io/WebXR_Test/
 
 A short test in order to figure out the Unity to WebXR workflow for Oculus Quest.
 
